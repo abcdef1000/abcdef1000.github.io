@@ -29,11 +29,11 @@
   </nav>
   <router-view id="view"/>
   <footer class="footer">
-  <div class="container-fluid">
-<span style="float:left;">Made by Wu Hao</span>
-<span style="float:right;">2022</span>
-</div>
-</footer>
+    <div class="container-fluid">
+      <span style="float:left;">Made by Wu Hao</span>
+      <span style="float:right;">2022</span>
+    </div>
+  </footer>
 </template>
 
 <style>
@@ -117,10 +117,14 @@
   position: fixed;
   bottom: 0;
   left:0;
-  width: 100%;
-  /* height: 60px; */
-  /* line-height: 60px; */
+  width: 200px;
+  font-size: 11px;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top:2px;
+  /* height: 30px;
+  line-height: 60px; */
   background-color: #2F3061;
+  border:black 2px solid;
   color: white;
 }
 .nav-item{
