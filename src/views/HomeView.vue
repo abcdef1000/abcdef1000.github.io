@@ -1,8 +1,5 @@
 <template>
     <h1 class="merry">My Class</h1>
-    <div class="typewriter">
-  <h1>The cat and the hat.</h1>
-</div>
   <div class="imgCont">
     <img id="classPhoto" src="@/assets/img/ClassPhoto.png">
     <p>{{classPhotoSrc}}</p>
