@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkslf_router"]=self["webpackChunkslf_router"]||[]).push([[67],{8440:function(r,e,t){t.r(e),t.d(e,{default:function(){return o}});var n=t(3396);const s={class:"academics"},u=(0,n._)("h1",{style:{"font-family":"'Merriweather'"}},".",-1),a=[u];function c(r,e){return(0,n.wg)(),(0,n.iD)("div",s,a)}var f=t(89);const i={},l=(0,f.Z)(i,[["render",c]]);var o=l}}]);
+//# sourceMappingURL=academics.55165ae7.js.map
