@@ -27,7 +27,7 @@
           </ul>
       </div>
   </nav>
-  <router-view id="view"/>
+  <router-view class="view"/>
   <footer class="footer">
     <div class="container-fluid">
       <span style="float:left;">Made by Wu Hao</span>
@@ -103,7 +103,7 @@
   right: 16px;
 }
 
-#view{
+.view{
   margin-top:2em;
   margin-bottom:2em;
   padding-left:5em;
